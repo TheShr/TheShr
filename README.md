@@ -74,7 +74,7 @@ Enterprise-grade multi-tenant SaaS for deploying intelligent, context-aware AI s
 | | |
 |---|---|
 | **Live** | [auto-stream-ai-sales-agent.vercel.app](https://auto-stream-ai-sales-agent.vercel.app) |
-| **Repository** | [github.com/anujsharma/autostream-saas](https://github.com/TheShr/autostream-saas) |
+| **Repository** | [github.com/TheShr/autostream-saas](https://github.com/TheShr/autostream-saas) |
 
 ---
 
@@ -87,7 +87,7 @@ Production-grade attendance management system using a microservice architecture 
 | | |
 |---|---|
 | **Live** | [attendify-chi.vercel.app](https://attendify-chi.vercel.app) |
-| **Repository** | [github.com/anujsharma/attendify-2.0](https://github.com/TheShr/attendify-2.0) |
+| **Repository** | [github.com/TheShr/attendify-2.0](https://github.com/TheShr/attendify-2.0) |
 
 ---
 
@@ -100,7 +100,7 @@ Production-grade URL shortening service engineered for horizontal scalability, l
 | | |
 |---|---|
 | **Live** | [url-shortener-frontend-hncn5herv.vercel.app](https://url-shortener-frontend-hncn5herv.vercel.app) |
-| **Repository** | [github.com/anujsharma/url-shortener](https://github.com/TheShr/url-shortener) |
+| **Repository** | [github.com/TheShr/url-shortener](https://github.com/TheShr/url-shortener) |
 
 ---
 
@@ -113,7 +113,7 @@ Machine learning system for early detection of chronic diseases including diabet
 | | |
 |---|---|
 | **Live** | [disease-predictor-seven.vercel.app](https://disease-predictor-seven.vercel.app) |
-| **Repository** | [github.com/anujsharma/disease-predictor](https://github.com/TheShr/disease-predictor) |
+| **Repository** | [github.com/TheShr/disease-predictor](https://github.com/TheShr/disease-predictor) |
 
 ---
 
@@ -126,7 +126,7 @@ Classic Breakout-style arcade game built in Java with real-time collision detect
 | | |
 |---|---|
 | **Live** | [brickbreakerfrontend.vercel.app](https://brickbreakerfrontend.vercel.app) |
-| **Repository** | [github.com/anujsharma/BrickBreaker](https://github.com/TheShr/BrickBreaker) |
+| **Repository** | [github.com/TheShr/BrickBreaker](https://github.com/TheShr/BrickBreaker) |
 
 ---
 
