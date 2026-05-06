@@ -74,7 +74,7 @@ Enterprise-grade multi-tenant SaaS for deploying intelligent, context-aware AI s
 | | |
 |---|---|
 | **Live** | [auto-stream-ai-sales-agent.vercel.app](https://auto-stream-ai-sales-agent.vercel.app) |
-| **Repository** | [github.com/TheShr/autostream-saas](https://github.com/TheShr/autostream-saas) |
+| **Repository** | [github.com/TheShr/AutoStream_AI_Sales_Agent](https://github.com/TheShr/AutoStream_AI_Sales_Agent) |
 
 ---
 
@@ -113,7 +113,7 @@ Machine learning system for early detection of chronic diseases including diabet
 | | |
 |---|---|
 | **Live** | [disease-predictor-seven.vercel.app](https://disease-predictor-seven.vercel.app) |
-| **Repository** | [github.com/TheShr/disease-predictor](https://github.com/TheShr/disease-predictor) |
+| **Repository** | [github.com/TheShr/DiseasePredictor](https://github.com/TheShr/DiseasePredictor) |
 
 ---
 
