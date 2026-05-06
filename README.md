@@ -78,18 +78,16 @@ Orchestrates complex multi-step workflows using LLM reasoning, tool use, and hum
 
 ---
 
-### HireSignal — AI Resume & Candidate Analysis System
+### AutoStream SaaS — AI Sales Agent Platform
 
-Parses, scores, and ranks candidate profiles against job descriptions using retrieval-augmented generation and structured LLM evaluation. Used by recruiting teams to shortlist at scale.
+Enterprise-grade multi-tenant SaaS for deploying intelligent, context-aware AI sales agents. Supports deterministic conversation flows, tenant-scoped knowledge retrieval, and real-time lead capture at scale.
 
-**Stack:** Python · FastAPI · LangChain · Pinecone · OpenAI · Next.js · PostgreSQL
+**Stack:** Python · FastAPI · LangGraph · Redis · Groq · LangChain · Next.js · TypeScript · PostgreSQL · Docker
 
 | | |
 |---|---|
-| **Live** | [hiresignal.yourdomain.com](https://hiresignal.yourdomain.com) |
-| **Repository** | [github.com/anujsharma/hiresignal](https://github.com/anujsharma/hiresignal) |
-
----
+| **Live** | [auto-stream-ai-sales-agent.vercel.app](https://auto-stream-ai-sales-agent.vercel.app) |
+| **Repository** | [github.com/anujsharma/autostream-saas](https://github.com/anujsharma/autostream-saas) |
 
 ### Nexus — Multi-Agent Orchestration System
 
@@ -104,54 +102,55 @@ Coordinates specialized AI agents (researcher, planner, executor, critic) using 
 
 ---
 
-### Baseline — Full-Stack SaaS Application
+### Attendify 2.0 — Face Recognition Attendance System
 
-Subscription-based SaaS with role-based access control, Stripe billing, team workspaces, audit logs, and a REST + WebSocket API. Designed for enterprise onboarding.
+Production-grade attendance management system using a microservice architecture with real-time face recognition, JWT-secured APIs, and geofence-validated attendance. Designed for high-concurrency classroom environments with verifiable and auditable records.
 
-**Stack:** Next.js · TypeScript · Node.js · PostgreSQL · Prisma · Stripe · AWS · Vercel
-
-| | |
-|---|---|
-| **Live** | [baseline.yourdomain.com](https://baseline.yourdomain.com) |
-| **Repository** | [github.com/anujsharma/baseline-saas](https://github.com/anujsharma/baseline-saas) |
-
----
-
-### Lens — ML-Powered Analytics Platform
-
-Real-time behavioral analytics with anomaly detection, trend forecasting, and a configurable dashboard. Processes high-volume event streams with sub-second latency.
-
-**Stack:** Python · scikit-learn · PyTorch · Kafka · TimescaleDB · Redis · React · FastAPI
+**Stack:** Next.js · TypeScript · Flask · PostgreSQL · Redis · FaceNet · Docker · Vercel · Render
 
 | | |
 |---|---|
-| **Live** | [lens.yourdomain.com](https://lens.yourdomain.com) |
-| **Repository** | [github.com/anujsharma/lens-analytics](https://github.com/anujsharma/lens-analytics) |
+| **Live** | [attendify-chi.vercel.app](https://attendify-chi.vercel.app) |
+| **Repository** | [github.com/anujsharma/attendify-2.0](https://github.com/anujsharma/attendify-2.0) |
 
 ---
 
-## Engineering Highlights
+### Distributed URL Shortener — High-Throughput System Design
 
-- Designed and deployed LLM orchestration pipelines with structured output validation, tool use, and fallback handling in production environments
-- Built autonomous AI agents capable of multi-step reasoning, web interaction, code execution, and self-correction across long task horizons
-- Developed retrieval-augmented generation (RAG) systems with hybrid search, reranking, and context compression for high-accuracy knowledge retrieval
-- Architected RESTful and event-driven backends handling concurrent request loads with observability, rate limiting, and horizontal scaling
-- Integrated vector databases (Pinecone, Qdrant, pgvector) into search and recommendation systems with sub-100ms query latency
-- Reduced LLM inference cost by 40% through prompt optimization, caching layers, and model routing strategies
-- Delivered full-stack products from schema design through CI/CD pipelines, deployed and monitored in production
+Production-grade URL shortening service engineered for horizontal scalability, low-latency redirects, and fault tolerance. Implements async processing, multi-layer caching, and distributed ID generation to handle high request volumes with consistent performance.
+
+**Stack:** FastAPI · Python · PostgreSQL · Redis · Next.js · TypeScript · Docker · asyncio
+
+| | |
+|---|---|
+| **Live** | [url-shortener-frontend-hncn5herv.vercel.app](https://url-shortener-frontend-hncn5herv.vercel.app) |
+| **Repository** | [github.com/anujsharma/url-shortener](https://github.com/anujsharma/url-shortener) |
 
 ---
 
-## GitHub Analytics
+### Chronic Disease Prediction — ML-Based Clinical Decision Support
 
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=anujsharma&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=3b82f6&text_color=8b949e&icon_color=3b82f6" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujsharma&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=8b949e&langs_count=8" />
-</p>
+Machine learning system for early detection of chronic diseases including diabetes, kidney disease, and heart conditions. Uses trained models to analyze patient health metrics and provide real-time predictive insights via a web interface.
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anujsharma&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=3b82f6&ring=3b82f6&fire=f59e0b&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" />
-</p>
+**Stack:** Python · Scikit-learn · TensorFlow · Flask · TypeScript · Next.js · Bootstrap
+
+| | |
+|---|---|
+| **Live** | [disease-predictor-seven.vercel.app](https://disease-predictor-seven.vercel.app) |
+| **Repository** | [github.com/anujsharma/disease-predictor](https://github.com/anujsharma/disease-predictor) |
+
+---
+
+### Brick Breaker — Java Arcade Game
+
+Classic Breakout-style arcade game built in Java with real-time collision detection, score persistence, and smooth paddle-ball mechanics. Packaged as a standalone executable for offline play.
+
+**Stack:** Java · Swing · AWT
+
+| | |
+|---|---|
+| **Live** | [brickbreakerfrontend.vercel.app](https://brickbreakerfrontend.vercel.app) |
+| **Repository** | [github.com/anujsharma/BrickBreaker](https://github.com/anujsharma/BrickBreaker) |
 
 ---
 
@@ -167,9 +166,9 @@ Real-time behavioral analytics with anomaly detection, trend forecasting, and a 
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/anujsharma) &nbsp;&nbsp;|&nbsp;&nbsp;
-[Portfolio](https://anujsharma.dev) &nbsp;&nbsp;|&nbsp;&nbsp;
-[Email](mailto:anuj@anujsharma.dev)
+[LinkedIn](https://www.linkedin.com/in/anuj-sharma-3bb24b358) &nbsp;&nbsp;|&nbsp;&nbsp;
+
+[Email](mailto:anujshr0911@gmail.com)
 
 ---
 
