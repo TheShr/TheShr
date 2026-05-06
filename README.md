@@ -65,19 +65,6 @@ Focused on agentic AI architectures, full-stack product engineering, and automat
 
 ---
 
-### AutoFlow — LLM-Powered Automation Platform
-
-Orchestrates complex multi-step workflows using LLM reasoning, tool use, and human-in-the-loop checkpoints. Supports custom workflow definitions via a YAML DSL.
-
-**Stack:** Python · FastAPI · LangGraph · OpenAI · PostgreSQL · Redis · Docker
-
-| | |
-|---|---|
-| **Live** | [autoflow.yourdomain.com](https://autoflow.yourdomain.com) |
-| **Repository** | [github.com/anujsharma/autoflow](https://github.com/anujsharma/autoflow) |
-
----
-
 ### AutoStream SaaS — AI Sales Agent Platform
 
 Enterprise-grade multi-tenant SaaS for deploying intelligent, context-aware AI sales agents. Supports deterministic conversation flows, tenant-scoped knowledge retrieval, and real-time lead capture at scale.
@@ -88,17 +75,6 @@ Enterprise-grade multi-tenant SaaS for deploying intelligent, context-aware AI s
 |---|---|
 | **Live** | [auto-stream-ai-sales-agent.vercel.app](https://auto-stream-ai-sales-agent.vercel.app) |
 | **Repository** | [github.com/anujsharma/autostream-saas](https://github.com/anujsharma/autostream-saas) |
-
-### Nexus — Multi-Agent Orchestration System
-
-Coordinates specialized AI agents (researcher, planner, executor, critic) using a supervisor pattern. Handles task decomposition, memory management, and inter-agent communication via a shared state graph.
-
-**Stack:** Python · LangGraph · CrewAI · GPT-4o · Qdrant · WebSockets · FastAPI
-
-| | |
-|---|---|
-| **Live** | [nexus.yourdomain.com](https://nexus.yourdomain.com) |
-| **Repository** | [github.com/anujsharma/nexus-agents](https://github.com/anujsharma/nexus-agents) |
 
 ---
 
@@ -167,7 +143,6 @@ Classic Breakout-style arcade game built in Java with real-time collision detect
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/anuj-sharma-3bb24b358) &nbsp;&nbsp;|&nbsp;&nbsp;
-
 [Email](mailto:anujshr0911@gmail.com)
 
 ---
